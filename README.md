@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandini016&label=Profile%20views&color=0e75b6&style=flat" alt="nandini016" /> </p>
 
-- 🔭 I’m currently working on **Coaching Website**
+- 🔭 I’m currently working on **Java project using Servelet and JSP**
 
-- 🌱 I’m currently learning **DSA,Javascript,Reactjs**
+- 🌱 I’m currently learning **DSA,Javascript Advance java**
 
 - 💬 Ask me about **Java,DSA,SQL**
 
